@@ -5,3 +5,4 @@ this is first test on the mac pro!
 this is chongtu2 test!
 this is push test!
 this is chongtu test!
+this is ssh test!
